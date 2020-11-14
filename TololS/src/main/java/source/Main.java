@@ -4,9 +4,10 @@ import exampel.Cos;
 
 public class Main {
 
-    private int a;
+
+    private int b;
     public Main(){
-        a = 6;
+        int b = 6;
     };
 
     public int add(int firstValue , int secondValue) {
