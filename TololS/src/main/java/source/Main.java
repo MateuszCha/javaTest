@@ -4,6 +4,7 @@ import exampel.Cos;
 
 public class Main {
 
+
     private int b;
     public Main(){
         int b = 6;
